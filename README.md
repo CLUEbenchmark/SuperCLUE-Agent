@@ -43,4 +43,19 @@ SuperCLUE-Agent: 基于中文原生任务的Agent智能体测评基准
 来解决问题的能力。
 <img src="https://github.com/CLUEbenchmark/SuperCLUE-Agent/blob/main/resources/img/cot.png"  width="100%" height="100%"></img>
 
+
+### 长短期记忆
+
+## #少样本示例学习（In-context Learning）
+也称情境学习，是一种特定的提示工程方法，其中任务的示例作为提示的一部分提供给模型。它是一种高阶的涌现能力，你可以使用现成的大型语言模型（LLM）来解决新任务，而无需进行微调。
+
+#### 长程对话
+在现实世界中的长对话中，用户通常会使用大模型谈论几个话题并在其中切换。比如主题检索任务，是通过要求大模型检索由多个主题组成的长对话中的开头和中间过程的主题来测试这种场景。
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Agent/blob/main/resources/img/long_turn_dial.png"  width="100%" height="100%"></img>
+
+
+#### 多文档问答
+主要考察AI Agent在多个文档中提取并组合答案的能力。
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Agent/blob/main/resources/img/multi_docqa.png"  width="100%" height="100%"></img>
+
 ## 联系方式
