@@ -13,6 +13,7 @@ SuperCLUE-Agent: 基于中文原生任务的Agent智能体测评基准
 调用API，主要考察AI Agent是否可以根据给定API的描述精确调用API，并正确响应API返回的能力。
 <img src="https://github.com/CLUEbenchmark/SuperCLUE-Agent/blob/main/resources/img/invoke_api.png"  width="100%" height="100%"></img>
 
+
 #### 检索API 
 调用API，主要考察AI Agent选择可能解决用户需求的API，并通过阅读文档来学习如何使用它们。
 <img src="https://github.com/CLUEbenchmark/SuperCLUE-Agent/blob/main/resources/img/retrieve_api.png"  width="100%" height="100%"></img>
