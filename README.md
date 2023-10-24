@@ -53,7 +53,7 @@ SuperCLUE-Agent: 基于中文原生任务的Agent智能体测评基准
 
 #### 长程对话
 在现实世界中的长对话中，用户通常会使用大模型谈论几个话题并在其中切换。比如主题检索任务，是通过要求大模型检索由多个主题组成的长对话中的开头和中间过程的主题来测试这种场景。
-<img src="https://github.com/CLUEbenchmark/SuperCLUE-Agent/blob/main/resources/img/long_turn_dial2.png"  width="100%" height="100%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Agent/blob/main/resources/img/long_turn_dial3.png"  width="100%" height="100%"></img>
 
 
 #### 多文档问答
