@@ -1,9 +1,15 @@
 # SuperCLUE-Agent
-SuperCLUE-Agent: 基于中文原生任务的Agent智能体测评基准
+SuperCLUE-Agent: Agent智能体中文原生任务能力测评基准
 
-计划更新日期2023-10-20（星期五），敬请期待！
+[更新日期]2023-10-24, 添加示例
 
-当前请先访问<a href='https://www.cluebenchmarks.com/superclue_agent.html'>官网页面</a>，或<a href='https://www.superclueai.com'>榜单</a>
+更多信息请访问<a href='https://www.cluebenchmarks.com/superclue_agent.html'>官网页面</a>，或<a href='https://www.superclueai.com'>榜单</a>
+
+
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Agent/blob/main/resources/img/SuperCLUE_Agent.png"  width="100%" height="100%"></img>
+
+
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Agent/blob/main/resources/img/superclue_agent_performance1024.png"  width="100%" height="100%"></img>
 
 ## 示例
 
@@ -61,4 +67,12 @@ SuperCLUE-Agent: 基于中文原生任务的Agent智能体测评基准
 <img src="https://github.com/CLUEbenchmark/SuperCLUE-Agent/blob/main/resources/img/multi_docqa2.png"  width="100%" height="100%"></img>
 
 
-## 联系方式
+## 讨论、测评与交流
+
+<br/>SuperCLUE-Agent榜单会定期进行更新，会纳入更多可用中文大模型。欢迎对大模型评测感兴趣的个人和机构联系与交流。<br/><br/>
+
+<br/><h2 id="discuss">讨论交流与使用</h2>
+<p float="left"><br>  <img src="https://github.com/CLUEbenchmark/SuperCLUE-Agent/blob/main/resources/img/agent_group.jpeg"  width="30%" height="30%"></img>
+  <img src="https://github.com/CLUEbenchmark/SuperCLUE-Agent/blob/main/resources/img/brightmart_s.jpeg"  width="30%" height="30%"></img>
+</p> 
+
