@@ -60,4 +60,7 @@ SuperCLUE-Agent: 基于中文原生任务的Agent智能体测评基准
 主要考察AI Agent在多个文档中提取并组合答案的能力。
 <img src="https://github.com/CLUEbenchmark/SuperCLUE-Agent/blob/main/resources/img/multi_docqa.png"  width="100%" height="100%"></img>
 
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Agent/blob/main/resources/img/multi_docqa2.png"  width="100%" height="100%"></img>
+
+
 ## 联系方式
