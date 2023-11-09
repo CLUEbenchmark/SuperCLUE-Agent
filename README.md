@@ -9,7 +9,7 @@ SuperCLUE-Agent: Agent智能体中文原生任务能力测评基准
 <img src="https://github.com/CLUEbenchmark/SuperCLUE-Agent/blob/main/resources/img/SuperCLUE_Agent.png"  width="100%" height="100%"></img>
 
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUE-Agent/blob/main/resources/img/superclue_agent_performance1024.png"  width="100%" height="100%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Agent/blob/main/resources/img/superclue_agent_performance1108.png"  width="100%" height="100%"></img>
 
 
 ## 排行榜
